@@ -1,4 +1,4 @@
-![гифка](src/demo.gif?raw=true)
+![гифка](demo.gif?raw=true)
 
 ### Сначала установите http-server
 
